@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a:link{color: #707070;}
+a:visited{color: #707070;}
+a:hover{color: #0900ff;}
+a:active{color: #707070;}
+
+header{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dcdcdc;
+}
+nav{
+    background-color: #e8e8e8;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{}
+
+nav ul li a{
+    display: block;
+    width: 90px;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    font-size:25px;
+}
+
+.Book01{
+    height: 586px;
+    width: 100%;
+    margin-top: 160px;
+    width: 100%;
+    background-image: url(img/Book01.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.book01{
+    margin: 0;
+    font-size: 25px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #212121;
+    margin-top: -575px;
+    margin-left: 528px;
+}
+.ook01{
+    margin: 0;
+    font-size: 20px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #2d2d2d;
+    height: 143px;
+    width: 290px;
+    margin-top: 26px;
+    margin-left: 528px;
+}
+.Book02{
+    height: 541px;
+    width: 100%;
+    background-image: url(img/Book02.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 460px;
+    
+}
+.book02{
+    margin: 0;
+    font-size: 25px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #212121;
+    margin-top: -530px;
+    margin-left: 528px;
+}
+.ook02{
+    margin: 0;
+    font-size: 20px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #2d2d2d;
+    height: 143px;
+    width: 290px;
+    margin-top: 26px;
+    margin-left: 528px;
+}
+.Book03{
+    height: 541px;
+    width: 100%;
+    background-image: url(img/Book03.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 420px;
+    
+}
+.book03{
+    margin: 0;
+    font-size: 25px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #212121;
+    margin-top: -533px;
+    margin-left: 528px;
+}
+.ook03{
+    margin: 0;
+    font-size: 20px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #2d2d2d;
+    height: 143px;
+    width: 290px;
+    margin-top: 26px;
+    margin-left: 528px;
+}
+.Book04{
+    height: 541px;
+    width: 100%;
+    background-image: url(img/Book04.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 420px;
+    
+}
+.book04{
+    margin: 0;
+    font-size: 25px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #212121;
+    margin-top: -525px;
+    margin-left: 528px;
+}
+.ook04{
+    margin: 0;
+    font-size: 20px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #2d2d2d;
+    height: 143px;
+    width: 290px;
+    margin-top: 26px;
+    margin-left: 528px;
+}
+.Book05{
+    height: 541px;
+    width: 100%;
+    background-image: url(img/Book05.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 350px;
+    
+}
+.book05{
+    margin: 0;
+    font-size: 25px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #212121;
+    margin-top: -466px;
+    margin-left: 528px;
+}
+.ook05{
+    margin: 0;
+    font-size: 20px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #2d2d2d;
+    height: 143px;
+    width: 290px;
+    margin-top: 26px;
+    margin-left: 528px;
+}
+.Book06{
+    height: 546px;
+    width: 100%;
+    background-image: url(img/Book06.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 290px;
+    
+}
+.book06{
+    margin: 0;
+    font-size: 25px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    color: #212121;
+    margin-top: -530px;
+    margin-left: 528px;
+}
+.ook06{
+    margin: 0;
+    font-size: 20px;
+    font-family:'Noto Sans KR', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #2d2d2d;
+    height: 143px;
+    width: 290px;
+    margin-top: 26px;
+    margin-left: 528px;
+}
+footer{
+    height: 100px;
+    background-color: #E9E9E9;
+    margin-top: 400px;
+    
+}
+.Copyright{
+    font-size: 15px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 300;
+    text-align: left;
+    color: #707070;
+    margin-left: 1010px;
+    margin-top: -50px;
+}
